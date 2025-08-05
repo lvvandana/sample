@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "sample"
   annotations:
-    backstage.io/adr-location: url:https://github.com/lvvandana/sample/blob/main/docs/adr
+    backstage.io/adr-location: docs/adr
 spec:
   type: service
   owner: user:guest
